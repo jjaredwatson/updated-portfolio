@@ -1,5 +1,5 @@
 * {
-    font-family: Lato;
+    font-family: Avenir;
     margin: auto;
 }
 
@@ -77,7 +77,7 @@ h1 {
 #welcome {
   font-size: 2vw;
   margin: 3%;
-  font-family: Lato;
+  font-family: Avenir;
   color: black;
   text-align: center;
 }
