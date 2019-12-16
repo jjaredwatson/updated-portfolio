@@ -1,5 +1,5 @@
 * {
-    font-family: Avenir;
+    font-family: 'Avenir';
     margin: auto;
 }
 
@@ -77,7 +77,7 @@ h1 {
 #welcome {
   font-size: 2vw;
   margin: 3%;
-  font-family: Avenir;
+  font-family: 'Avenir';
   color: black;
   text-align: center;
 }
@@ -183,7 +183,7 @@ h3:hover {
 }
 
 p {
-  font-family: 'Myanmar MN', serif;
+  font-family: 'Roboto', serif;
   font-size: 18px;
 }
 
